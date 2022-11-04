@@ -1,0 +1,22 @@
+
+					     [Start]
+						|< -------------------------------------^  
+				 < Is it a nice day at the beach? > (no) ------------ > |
+						| (yes)				        ^
+		        | Look for a good spot on the beach to skim board |	        |
+						|				   	^
+			         < Do you have your skim board? > (no) ----> | Get your Skim Board |
+						| (yes) 				
+				    | wait for a good wave | <---------------- |	
+						|			       ^	
+				    | send it, run and jump |		       |	
+						|			       ^	
+				  < Did you stick the landing > (no) --------> |	
+						| (yes)			       ^	
+			       | ride the wave, maybe do a trick |	       |	
+						|			       ^	
+				   < did you land the trick? > (no) ---------> | 	
+						| (yes)					
+			    | feel accomplished, and enjoy the day |			
+						|					
+					    [Fun day]

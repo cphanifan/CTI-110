@@ -1,0 +1,28 @@
+Attention: Are pc complex to make?
+Bridge: My answer is that their easy to make, like a lego set for adults.
+Thesis: PC towers are thought to be hard to build, but I will show you otherwise.
+
+I. Everything you will need
+	a. Important parts
+		-Motherboard
+		-CPU/processor
+		-Video card/GPU
+		-RAM (random access memory)
+		-Hard drive/SSD
+	b. less important parts
+		-Case
+		-Air/Water Cooling
+		-CPU Cooler
+		-Monitor, Keyboard, Mouse
+		-Power supply unit
+		-Network card
+		-Bluetooth card
+	
+II. Budget
+	a. Quality of computer
+	b. Compilorler
+
+III. what order you should put the part in
+	a. start with the motherboard
+	b. End with case
+	c. testing
